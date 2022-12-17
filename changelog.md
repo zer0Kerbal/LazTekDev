@@ -22,6 +22,7 @@
 * Create
   * Flags
   * Agent
+* closes #21 - Create Agency
 
 ### Localization 0.9.99.0
 
@@ -30,12 +31,13 @@
   * Localization/
     * <readme.md> v2.1.2.0
     * <quickstart.md>  v1.0.1.1
-* closes #6 - English <us-en.cfg>
-* updates #5 - Localization - Master
+* closes #3 - Localization - Master
+* updates #4 - English <en-us.cfg>
 
 ### Status 0.9.99.0
 
 * Issues
-
+  * closes #1 - LazTek Dev (LTD) 0.9.99.0-prerelease `<Sharks, with freakin' lazer beams>` edition
+  * closes #2 - 0.9.99.0 Additional Tasks
 
 ---
