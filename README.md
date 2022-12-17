@@ -1,2 +1,0 @@
-# LazTek
-LazTek Agency
