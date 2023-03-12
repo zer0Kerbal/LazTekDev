@@ -69,7 +69,7 @@ Agent, flags and common configs for LazTek.
 * [LazTek (LTD)][LTD]
   * [Colonial Transporter (LTC)][LTC]
   * [Exploration Expansion (LEE)][LEE]
-  * [Historic Archive (LTH)][LTH]
+  * [Historic Archive (LHA)][LHA]
   * [Launch Pack (LTL)][LTL]
 * [Biomatic (BIO)][BIO]
 * [Field Training Facility (FTF)][FTF]
@@ -160,7 +160,7 @@ Comment, click, like, share, up-vote, subscribe
 [LEE]: https://github.com/zer0Kerbal/ExplorationExpansion "Exploration Expansion (LEE)"
 [LTC]: https://github.com/zer0Kerbal/ColonialTransporter "Colonial Transporter (LTC)"
 [LTD]: https://github.com/zer0Kerbal/LazTekDev "LazTek Dev (LTD)"
-[LTH]: https://github.com/zer0Kerbal/HistoricArchive "Historic Archive (LTH)"
+[LHA]: https://github.com/zer0Kerbal/HistoricArchive "Historic Archive (LHA)"
 [LTL]: https://github.com/zer0Kerbal/LaunchPack "LaunchPack (LTL)"
 
 [BIO]: https://forum.kerbalspaceprogram.com/index.php?/topic/191426-*/ "Biomatic (BIO)"

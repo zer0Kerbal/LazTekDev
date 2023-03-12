@@ -10,6 +10,24 @@
 | spacedock  | (https://spacedock.info/mod/3172)                                 |
 | ckan       | LazTekDev                                                         |
 
+## Version 1.0.0.0-pre-release `<Oh, behave!>` edition
+
+* Released
+  * 11 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.0.0.0
+
+* Add strings from [Historic Archive (LHA)](https://github.com/zer0Kerbal/HistoricArchive )
+* closes #4 - English <en-us.cfg>
+* updates #3 - Localization - Master
+* Issues
+  * closes #25 - 1.0.0.0 Additional Tasks
+  * closes #24 - LazTek Dev (LTD) 1.0.0.0-release `<Oh, behave!>` edition
+
+---
+
 ## Version 0.9.99.0-pre-release `<Sharks, with freakin' lazer beams>` edition
 
 * Released
