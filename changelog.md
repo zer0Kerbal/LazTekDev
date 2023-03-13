@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/3172)                                 |
 | ckan       | LazTekDev                                                         |
 
-## Version 1.0.1.0-pre-release `<Get in my belly>` edition
+## Version 1.0.1.0-prerelease `<Get in my belly>` edition
 
 * Released
   * 12 Mar 2023
@@ -28,7 +28,7 @@
 
 ---
 
-## Version 1.0.0.0-pre-release `<Oh, behave!>` edition
+## Version 1.0.0.0-prerelease `<Oh, behave!>` edition
 
 * Released
   * 11 Mar 2023
@@ -47,7 +47,7 @@
 
 ---
 
-## Version 0.9.99.0-pre-release `<Sharks, with freakin' lazer beams>` edition
+## Version 0.9.99.0-prerelease `<Sharks, with freakin' lazer beams>` edition
 
 * Released
   * 15 Dec 2022
