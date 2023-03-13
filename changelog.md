@@ -10,6 +10,24 @@
 | spacedock  | (https://spacedock.info/mod/3172)                                 |
 | ckan       | LazTekDev                                                         |
 
+## Version 1.0.1.0-pre-release `<Get in my belly>` edition
+
+* Released
+  * 12 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.0.1.0
+
+* Add strings from [LazTek Exploration Expansion (LEE)](https://github.com/zer0Kerbal/ExplorationExpansion)
+  * updates #3 - Localization - Master
+
+* Issues
+  * closes #26 - LazTek Dev (LTD) 1.0.1.0-release `<Oh, behave!>` edition
+  * closes #27 - 1.0.1.0 Additional Tasks
+
+---
+
 ## Version 1.0.0.0-pre-release `<Oh, behave!>` edition
 
 * Released
@@ -19,9 +37,10 @@
 
 ### Summary 1.0.0.0
 
-* Add strings from [Historic Archive (LHA)](https://github.com/zer0Kerbal/HistoricArchive )
+* Add strings from [Historic Archive (LHA)](https://github.com/zer0Kerbal/HistoricArchive)
 * closes #4 - English <en-us.cfg>
 * updates #3 - Localization - Master
+
 * Issues
   * closes #25 - 1.0.0.0 Additional Tasks
   * closes #24 - LazTek Dev (LTD) 1.0.0.0-release `<Oh, behave!>` edition
