@@ -16,11 +16,8 @@ CC BY-ND 4.0 by zer0Kerbal
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-ND-4.0                                                      |
 | author     | LazarusLuan and zer0Kerbal                                        |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/211080-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/LazTekDev)              |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/LazTekDev)            |
-| spacedock  | (https://spacedock.info/mod/3172)                                 |
-| ckan       | LazTekDev                                                         |
 
 ## Version 1.0.1.0-prerelease `<Get in my belly>` edition
 
@@ -40,7 +37,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.0.0.0-prerelease `<Oh, behave!>` edition
+## Version 1.0.0.0-release `<Oh, behave!>` edition
 
 * Released
   * 11 Mar 2023
