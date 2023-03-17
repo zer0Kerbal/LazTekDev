@@ -17,6 +17,10 @@
 * Add strings from [LazTek Launch Pack (LLP)](https://github.com/zer0Kerbal/LaunchPack)
   * updates #3 - Localization - Master
 
+* Issues
+  * closes #31 - LazTek Dev (LTD) 1.0.2.0-release <`I choose love, baby!`> edition
+  * closes #32 - 1.0.2.0 Additional Tasks
+
 ---
 
 ## Version 1.0.1.0-release `<Get in my belly>` edition
