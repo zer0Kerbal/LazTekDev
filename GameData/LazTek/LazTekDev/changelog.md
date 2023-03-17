@@ -10,6 +10,18 @@
 | spacedock  | (https://spacedock.info/mod/3172)                                 |
 | ckan       | LazTekDev                                                         |
 
+## Version 1.0.2.0-prerelease `<I choose love, baby!>` edition
+
+* Released
+  * 16 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* Add strings from [LazTek Launch Pack (LLP)](https://github.com/zer0Kerbal/LaunchPack)
+  * updates #3 - Localization - Master
+
+---
+
 ## Version 1.0.1.0-prerelease `<Get in my belly>` edition
 
 * Released
