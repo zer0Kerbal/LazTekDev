@@ -19,7 +19,7 @@ CC BY-ND 4.0 by zer0Kerbal
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/LazTekDev)              |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/LazTekDev)            |
 
-## Version 1.0.2.0-prerelease `<I choose love, baby!>` edition
+## Version 1.0.2.0-release `<I choose love, baby!>` edition
 
 * Released
   * 16 Mar 2023
@@ -31,7 +31,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.0.1.0-prerelease `<Get in my belly>` edition
+## Version 1.0.1.0-release `<Get in my belly>` edition
 
 * Released
   * 12 Mar 2023
