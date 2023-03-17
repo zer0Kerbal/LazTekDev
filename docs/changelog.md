@@ -22,7 +22,19 @@ CC BY-ND 4.0 by zer0Kerbal
 | spacedock  | (https://spacedock.info/mod/3172)                                 |
 | ckan       | LazTekDev                                                         |
 
-## Version 1.0.1.0-pre-release `<Get in my belly>` edition
+## Version 1.0.2.0-prerelease `<I choose love, baby!>` edition
+
+* Released
+  * 16 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* Add strings from [LazTek Launch Pack (LLP)](https://github.com/zer0Kerbal/LaunchPack)
+  * updates #3 - Localization - Master
+
+---
+
+## Version 1.0.1.0-prerelease `<Get in my belly>` edition
 
 * Released
   * 12 Mar 2023
@@ -40,7 +52,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.0.0.0-pre-release `<Oh, behave!>` edition
+## Version 1.0.0.0-prerelease `<Oh, behave!>` edition
 
 * Released
   * 11 Mar 2023
@@ -59,7 +71,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 0.9.99.0-pre-release `<Sharks, with freakin' lazer beams>` edition
+## Version 0.9.99.0-prerelease `<Sharks, with freakin' lazer beams>` edition
 
 * Released
   * 15 Dec 2022
