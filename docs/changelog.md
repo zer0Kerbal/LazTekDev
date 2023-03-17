@@ -49,7 +49,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ---
 
-## Version 1.0.0.0-prerelease `<Oh, behave!>` edition
+## Version 1.0.0.0-release `<Oh, behave!>` edition
 
 * Released
   * 11 Mar 2023
