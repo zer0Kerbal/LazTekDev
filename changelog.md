@@ -7,6 +7,46 @@
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/LazTekDev)              |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/LazTekDev)            |
 
+## Version 1.0.3.0-release `<Arigatō (ありがとう) Paras0750>` edition
+
+* Released
+  * 18 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.0.3.0
+
+* Add Japanese (日本語) localization - Arigatō (ありがとう) [Paras0750](https://github.com/Paras0750)
+* Add draco part tag string
+
+### Localization 1.0.3.0
+
+* Add
+  * Japanese (日本語)
+    * <ja.cfg> v1.3.0.0
+    * Arigatō (ありがとう) [Paras0750](https://github.com/Paras0750)
+* Update
+  * [en-us.cfg] v1.3.1.0
+  * [ja.cfg] v1.3.0.0
+    * Add string: #LTD-eng-draco
+* closes #10 - Japanese (日本語) <ja.cfg>
+* updates #3 - Localization - Master
+
+### docs/ 1.0.3.0
+
+* Update
+  * [Attributions.md] v1.0.2.0
+  * [Localizations.md] v1.0.2.0
+  * [readme.md] v1.0.2.0
+
+### Status 1.0.3.0
+
+* Issues
+  * closes #36 - LazTek Dev (LTD) 1.0.3.0-release `<Arigatō (ありがとう) Paras0750>` edition
+  * closes #37 - 1.0.3.0 Additional Tasks
+
+---
+
 ## Version 1.0.2.0-release `<I choose love, baby!>` edition
 
 * Released
